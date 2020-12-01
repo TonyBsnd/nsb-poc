@@ -1,0 +1,7 @@
+{
+  "name": "nsb-poc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
